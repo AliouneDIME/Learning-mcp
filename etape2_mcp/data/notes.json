@@ -1,0 +1,37 @@
+[
+  {
+    "id": "de28a003",
+    "title": "Idées app mobile",
+    "content": "Faire une app de suivi de dépenses avec React Native",
+    "tags": [
+      "projet",
+      "mobile"
+    ],
+    "created_at": "2026-03-25 16:16:51",
+    "updated_at": "2026-03-25 16:16:51"
+  },
+  {
+    "id": "4d779fbe",
+    "title": "Livres à lire cet été",
+    "content": "1. L'Étranger – Albert Camus\n2. Fondation – Isaac Asimov\n3. Le Nom de la Rose – Umberto Eco\n4. Dune – Frank Herbert\n5. La Horde du Contrevent – Alain Damasio",
+    "tags": [
+      "lecture",
+      "loisirs",
+      "été"
+    ],
+    "created_at": "2026-03-25 16:17:24",
+    "updated_at": "2026-03-25 16:17:24"
+  },
+  {
+    "id": "360bedfa",
+    "title": "Bonnes pratiques Git",
+    "content": "- Toujours travailler sur une branche dédiée, jamais directement sur main\n- Rédiger des messages de commit clairs et précis (ex: feat, fix, chore...)\n- Faire des commits petits et fréquents\n- Ouvrir une Pull Request avec une description détaillée\n- Rebase plutôt que merge pour garder un historique propre",
+    "tags": [
+      "dev",
+      "git",
+      "bonnes-pratiques"
+    ],
+    "created_at": "2026-03-25 16:17:35",
+    "updated_at": "2026-03-25 16:17:35"
+  }
+]

@@ -1,0 +1,9 @@
+# Dépendances Python pour l'Étape 1 - Serveur MCP
+
+# MCP Python SDK + FastMCP (le framework principal)
+# "cli" inclut les outils en ligne de commande utiles pour le dev
+mcp[cli]>=1.0.0
+
+# Pydantic v2 - validation des données
+# (souvent déjà inclus avec mcp, mais on le déclare explicitement)
+pydantic>=2.0.0
